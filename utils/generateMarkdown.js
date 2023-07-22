@@ -22,7 +22,8 @@ function generateMarkdown(data) {
   ## LICENSE 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n
   ## CONTACTS
-  GitHub: [${data.username}](https://github.com/${data.username})\nEmail: [${data.email}](mailto:${data.email})
+  GitHub: [${data.username}](https://github.com/${data.username})
+  Email: [${data.email}](mailto:${data.email})
 `;
 }
 

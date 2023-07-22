@@ -64,7 +64,7 @@ function questions() {
 
 // TODO: Create a function to write README file
 function writeToFile(info) {
-    fs.appendFile('BLINGME.md', `${info}\n`, (err) =>
+    fs.appendFile('README.md', `${info}\n`, (err) =>
 
         err ? console.error(err) : console.log('Successfully wrote to README')
     );
