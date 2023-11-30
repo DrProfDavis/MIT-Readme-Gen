@@ -20,7 +20,7 @@
   na
 
   ## USAGE
-  na
+  In the command console type "node index.js"
 
   ## CONTRIBUTIONS
   na
